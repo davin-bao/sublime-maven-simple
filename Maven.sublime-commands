@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mvn_clean_compile",
+    "caption": "mvn clean compile",
+    "command": "mvn_clean_compile"
+  },{
+    "id": "mvn_clean_install",
+    "caption": "mvn clean install",
+    "command": "mvn_clean_install"
+  },{
+    "id": "mvn_package",
+    "caption": "mvn package",
+    "command": "mvn_package"
+  },{
+    "id": "mvn_run_jar",
+    "caption": "mvn run jar",
+    "command": "mvn_run_jar"
+  }
+]
